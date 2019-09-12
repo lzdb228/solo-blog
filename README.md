@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [gitlab安装](http://www.zhoudb.com/articles/2019/09/12/1568278271466.html)
 * [世界，你好！](http://www.zhoudb.com/hello-solo)
 
 
